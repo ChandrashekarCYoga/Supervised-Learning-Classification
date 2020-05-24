@@ -1,2 +1,3 @@
 # Supervised-Learning-Classification
-Supervised Learning(Classification)
+
+* Predicting heart disease using machine learning
